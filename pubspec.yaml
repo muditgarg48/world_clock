@@ -37,6 +37,8 @@ dependencies:
   intl: ^0.17.0
   analog_clock: ^0.1.0
   concentric_transition: ^1.0.3
+  http: ^0.13.4
+  modal_bottom_sheet: ^2.0.1
 
 dev_dependencies:
   flutter_test:
